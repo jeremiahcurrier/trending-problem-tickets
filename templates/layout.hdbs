@@ -2,19 +2,7 @@
   <h3>{{setting "name"}}</h3>
 </header>
 <div class="buttonHolder" >
-	<!--<p>Days back to search: </p>
-        <select id="selector">
-          <option value="one">
-          1
-          </option>
-          <option value="three">
-          3
-          </option>
-          <option value="seven">
-          7
-          </option>
-        </select>-->
-    <input class="btn" type="button" value="Get Trending Problems"/>
+    <input class="btn" type="button" value="GET Trending Problems"/>
 </div>
 <section data-main/>
 <footer>
