@@ -1,0 +1,22 @@
+<header>
+  <h3>{{setting "name"}}</h3>
+</header>
+<div class="buttonHolder" >
+	<!--<p>Days back to search: </p>
+        <select id="selector">
+          <option value="one">
+          1
+          </option>
+          <option value="three">
+          3
+          </option>
+          <option value="seven">
+          7
+          </option>
+        </select>-->
+    <input class="btn" type="button" value="Get Trending Problems"/>
+</div>
+<section data-main/>
+<footer>
+  Brought to you by: <a href="mailto:{{author.email}}">{{author.name}}</a>
+</footer>
